@@ -1,53 +1,154 @@
-<h2 align="center">Hi, I'm Ángel Guerrero! 👋</h2>
-<h3 align="center">Senior Software Developer | Full Stack Engineer | AI & Prompt Engineer</h3>
+<div align="center">
 
-<!-- Typing SVG Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=4AE6E2&center=true&width=500&lines=Full+Stack+JavaScript+Developer;Vue+3+%7C+React+Specialist;Node.js+%7C+TypeScript+Pro;AI+%26+Prompt+Engineering;Laravel+%7C+GraphQL+%7C+Go;Team+Lead+%7C+Remote+Collaboration;Product+Onboarding+%7C+API+Integrations;Tech+Explorer+%7C+Always+Up-to-date" alt="Typing SVG"/>
-</p>
+# Ángel Guerrero
 
----
-
-### 👨‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
-
-- Senior Software Developer with 7+ years of industry experience in end-to-end MVPs, feature delivery, and rapid scaling for international teams.
-- Specialized in **Node.js, Vue 3, React, TypeScript, PHP, Laravel, Go, and AI/ML integrations**.
-- Skilled technical lead: full lifecycle product development, code reviews, sprint planning, remote teamwork & project management.
-- Always exploring new technologies and staying up-to-date with the latest industry trends.
-- Deep background in API integrations, database optimization (PostgreSQL, MySQL), and front-end architecture.
-- Effective communicator in multicultural environments (English & Spanish), with a passion for prompt engineering for image generation.
-- Open-minded and always learning—currently focusing on Go and advanced design patterns.
-
----
-
-### 🧰 Tech Stack & Skills
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blueviolet?style=for-the-badge)
-![Remote Ready](https://img.shields.io/badge/Remote--Ready-green?style=for-the-badge)
-![Tech Explorer](https://img.shields.io/badge/Tech%20Explorer-up%20to%20date-orange?style=for-the-badge)
-
----
-
-### 📫 Contact
+### Senior Software Engineer | Technical Lead | Full Stack Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanguerrero/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lasantiagoguerrero@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/exeidg)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=4AE6E2&center=true&width=600&lines=Senior+Full+Stack+Developer;Building+Scalable+Enterprise+Solutions;Vue.js+%7C+React+%7C+Node.js+Expert;TypeScript+%7C+PHP+%7C+Go+Specialist;Technical+Lead+%26+System+Architect;Microservices+%7C+API+Design+%7C+Cloud" alt="Typing SVG"/>
+
+</div>
+
+---
+
+## 💼 Professional Summary
+
+Senior Software Engineer with **7+ years** of experience architecting and delivering high-impact solutions for international enterprises. Specialized in building scalable, production-ready applications that drive business growth and operational efficiency.
+
+**Key Achievements:**
+- 🚀 Led technical teams in delivering **20+ MVPs** and enterprise products from concept to production
+- ⚡ Architected microservices infrastructure handling **1M+ daily requests** with 99.9% uptime
+- 🌍 Successfully managed remote engineering teams across 4+ countries and multiple time zones
+- 📈 Reduced deployment time by 60% through CI/CD pipeline optimization and automation
+- 💡 Mentored 15+ junior developers, establishing best practices and code standards
+
+---
+
+## 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Technical Leadership
+- Full-Cycle Product Development
+- System Architecture & Design
+- Code Review & Quality Assurance
+- Agile/Scrum Methodologies
+- Cross-Functional Team Collaboration
+
+</td>
+<td width="50%" valign="top">
+
+### Software Engineering
+- Microservices Architecture
+- RESTful & GraphQL API Design
+- Database Design & Optimization
+- Performance Tuning & Scalability
+- DevOps & CI/CD Pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Expertise
+
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### API & Integration
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+
+### Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+---
+
+## 🌟 What I Bring to the Table
+
+```typescript
+const angelGuerrero = {
+  experience: "7+ years",
+  role: "Senior Software Engineer & Technical Lead",
+  
+  expertise: {
+    frontend: ["Vue 3", "React", "TypeScript", "Modern CSS"],
+    backend: ["Node.js", "Go", "PHP/Laravel", "Microservices"],
+    databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
+    architecture: ["RESTful APIs", "GraphQL", "Event-Driven", "Microservices"],
+    devOps: ["CI/CD", "Docker", "Cloud Deployment", "Performance Optimization"]
+  },
+  
+  leadership: {
+    teamManagement: "Remote & International Teams",
+    practices: ["Agile/Scrum", "Code Review", "Mentoring", "Technical Documentation"],
+    communication: ["English", "Spanish"]
+  },
+  
+  currentFocus: ["Go", "Advanced Design Patterns", "System Architecture", "AI/ML Integration"],
+  
+  workStyle: "Remote-First | Collaborative | Results-Driven"
+};
+```
+
+---
+
+## 💡 Professional Approach
+
+- **Quality-Driven**: Writing clean, maintainable, and well-documented code that stands the test of time
+- **Business-Focused**: Translating complex business requirements into efficient technical solutions
+- **Team-Oriented**: Fostering collaboration, knowledge sharing, and continuous improvement
+- **Innovation-Minded**: Staying current with emerging technologies and industry best practices
+- **Delivery-Focused**: Balancing technical excellence with pragmatic, timely delivery
+
+---
+
+## 📊 Engineering Philosophy
+
+> "Great software is not just about writing code—it's about solving real problems, creating value, and building systems that scale. I believe in pragmatic engineering, continuous learning, and empowering teams to deliver their best work."
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Great Together
+
+I'm always interested in discussing new opportunities, technical challenges, and innovative projects.
+
+**Open to:** Technical Leadership Roles | Senior Engineering Positions | Consulting Opportunities
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanguerrero/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lasantiagoguerrero@gmail.com)
+
+---
+
+*Building scalable solutions, one commit at a time* 🚀
+
+</div>
