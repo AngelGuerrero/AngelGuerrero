@@ -16,14 +16,14 @@
 
 ## 💼 Professional Summary
 
-Senior Software Engineer with **7+ years** of experience architecting and delivering high-impact solutions for international enterprises. Specialized in building scalable, production-ready applications that drive business growth and operational efficiency.
+Senior Software Engineer with **7+ years** of experience building and delivering production-ready applications for international teams. Specialized in full-stack development, system architecture, and technical leadership.
 
-**Key Achievements:**
-- 🚀 Led technical teams in delivering **20+ MVPs** and enterprise products from concept to production
-- ⚡ Architected microservices infrastructure handling **1M+ daily requests** with 99.9% uptime
-- 🌍 Successfully managed remote engineering teams across 4+ countries and multiple time zones
-- 📈 Reduced deployment time by 60% through CI/CD pipeline optimization and automation
-- 💡 Mentored 15+ junior developers, establishing best practices and code standards
+**Key Experience:**
+- 🚀 Led development of multiple MVPs and enterprise products from concept to production
+- ⚡ Designed and implemented scalable backend architectures and RESTful/GraphQL APIs
+- 🌍 Collaborated with remote engineering teams across different countries and time zones
+- 📈 Improved development workflows through CI/CD implementation and best practices
+- 💡 Mentored developers and conducted code reviews to maintain code quality
 
 ---
 
@@ -132,7 +132,7 @@ const angelGuerrero = {
 
 ## 📊 Engineering Philosophy
 
-> "Great software is not just about writing code—it's about solving real problems, creating value, and building systems that scale. I believe in pragmatic engineering, continuous learning, and empowering teams to deliver their best work."
+> "Great software is built on clean code, pragmatic solutions, and continuous learning. I focus on delivering value through well-architected systems while fostering team collaboration and knowledge sharing."
 
 ---
 
