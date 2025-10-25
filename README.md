@@ -91,51 +91,6 @@ Senior Software Engineer with **7+ years** of experience building and delivering
 
 ---
 
-## 🌟 What I Bring to the Table
-
-```typescript
-const angelGuerrero = {
-  experience: "7+ years",
-  role: "Senior Software Engineer & Technical Lead",
-  
-  expertise: {
-    frontend: ["Vue 3", "React", "TypeScript", "Modern CSS"],
-    backend: ["Node.js", "Go", "PHP/Laravel", "Microservices"],
-    databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
-    architecture: ["RESTful APIs", "GraphQL", "Event-Driven", "Microservices"],
-    devOps: ["CI/CD", "Docker", "Cloud Deployment", "Performance Optimization"]
-  },
-  
-  leadership: {
-    teamManagement: "Remote & International Teams",
-    practices: ["Agile/Scrum", "Code Review", "Mentoring", "Technical Documentation"],
-    communication: ["English", "Spanish"]
-  },
-  
-  currentFocus: ["Go", "Advanced Design Patterns", "System Architecture", "AI/ML Integration"],
-  
-  workStyle: "Remote-First | Collaborative | Results-Driven"
-};
-```
-
----
-
-## 💡 Professional Approach
-
-- **Quality-Driven**: Writing clean, maintainable, and well-documented code that stands the test of time
-- **Business-Focused**: Translating complex business requirements into efficient technical solutions
-- **Team-Oriented**: Fostering collaboration, knowledge sharing, and continuous improvement
-- **Innovation-Minded**: Staying current with emerging technologies and industry best practices
-- **Delivery-Focused**: Balancing technical excellence with pragmatic, timely delivery
-
----
-
-## 📊 Engineering Philosophy
-
-> "Great software is built on clean code, pragmatic solutions, and continuous learning. I focus on delivering value through well-architected systems while fostering team collaboration and knowledge sharing."
-
----
-
 <div align="center">
 
 ### 🤝 Let's Build Something Great Together
